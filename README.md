@@ -4,13 +4,8 @@ Welcome to my backend notes repository! 🚀
 
 ## Overview
 
-This repository is a collection of notes and learnings from my journey into backend development. 
+Collection of notes and learnings from backend development
 
-## Contents
-
-- **Notes**: Detailed explanations and insights into backend technologies, frameworks, and tools.
-- **Examples**: Code snippets and small projects demonstrating various backend concepts.
-- **Resources**: Useful links, articles, and tutorials that have helped me understand backend development better.
 
 ## Table of Contents
 - [Overview](#overview)
