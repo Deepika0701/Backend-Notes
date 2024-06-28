@@ -14,13 +14,10 @@ This repository is a collection of notes and learnings from my journey into back
 
 ## Table of Contents
 - [Overview](#overview)
-- [Refresh and Access Token](#refresh-accessToken)
-- [License](#license)
-
-
+- [Access and Refresh Token](#access-and-refresh-token)
 
 
 ## Access and Refresh Token
-For more detailed information about how refresh tokens and access tokens work, refer to the [Refresh and Access Token](refresh-accessToken.md).
+For more detailed information about how refresh tokens and access tokens work, refer to the [Access and Refresh Token](refresh-accessToken.md).
 
 
