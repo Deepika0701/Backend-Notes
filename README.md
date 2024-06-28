@@ -14,7 +14,7 @@ This repository is a collection of notes and learnings from my journey into back
 
 ## Table of Contents
 - [Overview](#overview)
-- [Refresh and Access Toke](#refresh-accessToken)
+- [Refresh and Access Token](#refresh-accessToken)
 - [License](#license)
 
 
