@@ -21,6 +21,6 @@ This repository is a collection of notes and learnings from my journey into back
 
 
 ## Access and Refresh Token
-For more detailed information about how refresh tokens and access tokens work, refer to the [Backend Notes](refresh-accessToken.md).
+For more detailed information about how refresh tokens and access tokens work, refer to the [Refresh and Access Token](refresh-accessToken.md).
 
 
