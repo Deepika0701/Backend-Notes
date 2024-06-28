@@ -9,7 +9,7 @@ Collection of notes and learnings from backend development
 
 ## Table of Contents
 - [Overview](#overview)
-- [Access and Refresh Token](#access-and-refresh-token)
+- [Access and Refresh Token](refresh-accessToken.md)
 
 
 ## Access and Refresh Token
